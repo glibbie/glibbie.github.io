@@ -6,7 +6,7 @@ author: "glibbie"
 
 We all love this esport. Some of us more than others. I was, and still am, a huge fan of CS:GO and although it’s harder these days to find the time to sit down and watch an entire tournament, I still love to chuck on a game in the background while I’m working. There have been some great matches at the EPL Season 7 finals but ESL’s decision to sign an exclusive broadcasting deal with Facebook has left many fans visibly disappointed with the lack of features, difficulty in finding games and drop in quality compared to the standard of Twitch. 
 
-**_“Fans don’t pay to watch CS:GO tournaments. They shouldn’t complain. It’s not like they’re paying customers.”_**
+**“Fans don’t pay to watch CS:GO tournaments. They shouldn’t complain. It’s not like they’re paying customers.”**
 
 This type of rhetoric has been touted by a number of on-screen talents in CS:GO, Thorin is one of them. He posted this on Twitter.
 
