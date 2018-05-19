@@ -5,9 +5,9 @@ url:            "https://glibbie.github.io"
 
 # Author
 author:
-  name:         Lachlan Turnbull
+  name:         
   url:          https://glibbie.github.io
-  email:        lrturnbull98@gmail.com
+  email:        glibbieblog@gmail.com
 
 # Build settings
 markdown:       kramdown
