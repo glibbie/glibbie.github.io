@@ -44,4 +44,6 @@ One of the qualities that Youtube Gaming had from day one was the aforementioned
 
 The community must distinguish between genuine attempts to break into the scene, like Youtube, and half-hearted money grabs like Facebook. The more platforms providing high quality streams is better for everyone. It’s better for the fans because competing platforms push each other to improve and it’s better for TOs because a better product means more eyes and thus more investments/sponsorships. 
 
-_The end_
+So dear CS:GO fans, if you really want to improve esports, criticise a poor product when it’s actually poor. Praise a good product when it’s actually good. 
+
+_Follow me on [Twitter](https://twitter.com/glibcsgo)_
