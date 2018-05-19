@@ -1,13 +1,13 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          glibbie's blog
+description:    "A random collection of various thoughts"
+url:            "https://glibbie.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Lachlan Turnbull
+  url:          https://glibbie.github.io
+  email:        lrturnbull98@gmail.com
 
 # Build settings
 markdown:       kramdown
