@@ -10,6 +10,10 @@ We all love this esport. Some of us more than others. I was, and still am, a hug
 
 This type of rhetoric has been touted by a number of on-screen talents in CS:GO, Thorin is one of them. He posted this on Twitter.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">lol at fans who are against PPV, hate broadcast rights being sold to anyone who isn&#39;t twitch (incl. youtube) and overwhelmingly use adblock imagining they are &quot;the customer&quot; of tournament streams.<a href="https://twitter.com/hashtag/FanLogic?src=hash&amp;ref_src=twsrc%5Etfw">#FanLogic</a></p>&mdash; Thorin (@Thooorin) <a href="https://twitter.com/Thooorin/status/997226372404785152?ref_src=twsrc%5Etfw">May 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 To understand why the argument against fans voicing their descent at the Facebook deal doesn’t work we must talk about what drives the economy of esports. The answer is simply ‘fans’. Viewers, people who watch and cheer for their favourite team, who buy gaming equipment simply because the world’s best player is on the box, drive esports. 
 
 Corporations in esports spend millions of dollars on sponsorships and marketing to try and convince those viewers that they should buy their products. Everyone knows your deagle ability increases 10 fold if you’re using the same mouse as Niko right? 
